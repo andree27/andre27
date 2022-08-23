@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @andree27
-- 👀 I’m interested in reading, coding, nature
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on nothing at the moment
+- 👋 Hi, I’m @andree27!
+- 💞️ I’m interested in reading, coding, nature.
+- 🌱 I’m currently learning Java and studying for university.
+- 👀 Currently working on my own website.
 - 📫 How to reach me: Discord (Andre27#1448)
 
 <!---
